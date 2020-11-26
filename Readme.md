@@ -2,11 +2,11 @@
    
 ## Description
   
-🔍 A node.js application that uses user input from inquirer to populate a Readme.md file for user repository. The Readme.md file is created in the dist directory and can be found [here](./dist/Readme.md)  
+🔍 A node.js application that uses user input from inquirer to populate a Readme.md file for user repository.
   
 💻 Below is the Screenshot showing the functionality of the application:
   
-![Japkirat's README Generator](./src/demo)
+![Japkirat's README Generator](./src/demo.png)
   
 🎥 The Full Movie file showing functionality of the application can be found [here](./src/Demo.mov)  
   
